@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.3](https://github.com/manojchrsya/newrelic-transport/compare/v1.1.2...v1.1.3) (2026-11-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** update development dependencies ([98bd2f2](https://github.com/manojchrsya/newrelic-transport/commit/98bd2f24b7239fb98d7874d7e0b1535eae8eaff6))
+* update codeql file ([179a284](https://github.com/manojchrsya/newrelic-transport/commit/179a284fe2e7fb8d90ebc63e3c615d1bd878e72e))
+
 ## [1.1.2](https://github.com/manojchrsya/newrelic-transport/compare/v1.1.1...v1.1.2) (2026-11-04)
 
 
