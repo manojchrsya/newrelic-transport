@@ -18,7 +18,7 @@ jobs:
       contents: read
       actions: read   # only needed for private repos
     steps:
-      - uses: actions/checkout@v6   # use the latest major that exists
+      - uses: actions/checkout@v7   # use the latest major that exists
 
       - uses: github/codeql-action/init@v4
         with:
